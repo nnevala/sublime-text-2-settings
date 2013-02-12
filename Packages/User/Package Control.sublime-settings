@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ColorSchemeSelector",
+		"CTags",
+		"CTags for PHP",
+		"DocBlockr",
+		"Format SQL",
+		"Git",
+		"Indent XML",
+		"Package Control",
+		"PHP-Twig",
+		"Phpcs",
+		"Pretty JSON",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"Scalariform",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
