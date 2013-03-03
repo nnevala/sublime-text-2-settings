@@ -2,7 +2,7 @@
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/TwilightGutter.tmTheme",
 	"font_size": 14.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
